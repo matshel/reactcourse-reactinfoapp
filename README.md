@@ -1,3 +1,3 @@
 # React Course - React Info App
 
-- Learning React by building a Small React Info App
+- Learning react by building a small React info app
